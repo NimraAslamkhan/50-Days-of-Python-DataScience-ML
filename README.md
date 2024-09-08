@@ -12,7 +12,7 @@ Welcome to my **50 Days of Code** challenge! Over the next 50 days, I will be fo
 
 | Day | Topics Covered | Code & Exercises | Notes |
 |-----|----------------|------------------|-------|
-| 1   | Python Basics: Variables, Data Types, Lists, Dictionaries, Tuples | [Day 1 Code](https://github.com/yourusername/repo-name/blob/main/code/Day1) | Basics refreshed |
+| 1   | Python Basics: Variables, Data Types, Lists, Dictionaries, Tuples | [Day 1 Code](https://github.com/NimraAslamkhan/python-Day-1-code)) | Basics refreshed |
 
 | ... | ... | ... | ... |
 
