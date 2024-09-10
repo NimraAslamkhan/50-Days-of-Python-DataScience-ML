@@ -14,6 +14,7 @@ Welcome to my **50 Days of Code** challenge! Over the next 50 days, I will be fo
 |-----|----------------|------------------|-------|
 | 1   | Python Basics: Variables, Data Types, Lists, Dictionaries, Tuples | [Day 1 Code](https://github.com/NimraAslamkhan/python_coding_challenges))) | Basics refreshed |
 | 2   | Python Basics: conditional expresion, loop in python, function and recursions, file I/o| [Day 2 Code](https://github.com/NimraAslamkhan/python_coding_challenges))) | Basics refreshed |
+| 3   | Python advance: object orianted programing(OOP) , python andvance 1, python advance 2,project 1, project 2  | [Day 3 Code](https://github.com/NimraAslamkhan/python_coding_challenges))) | Basics refreshed |
 
 | ... | ... | ... | ... |
 
@@ -25,6 +26,7 @@ Welcome to my **50 Days of Code** challenge! Over the next 50 days, I will be fo
 ├── code/
 │   ├── Day 1/
 |   ├── Day 2/
+|   ├── Day 3/
 │   
 │
 └── README.md
